@@ -1,0 +1,1 @@
+// The application's JavaScript structure will be created here
