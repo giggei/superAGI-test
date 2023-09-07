@@ -1,0 +1,6 @@
+Steps for implementing the new entry functionality:
+1. Create a form in the HTML file for users to enter the object data
+2. Use JavaScript to capture the form data when the form is submitted
+3. Send the form data to the backend using an AJAX request
+4. In the Laravel backend, validate the data and store it in the SQLite database
+5. Return a response to the front end indicating whether the operation was successful
